@@ -1,4 +1,4 @@
-![Guy Olivier Yanouba Millimouno Banner](https://static.vecteezy.com/system/resources/previews/000/694/587/original/elegant-technology-banner-background-vector.jpg)
+![Guy Olivier Yanouba Millimouno Banner](https://github.com/GYOM15/GYOM15/blob/main/banner.png)
 
 ## 👋 &nbsp;Hi, I'm Guy Olivier Yanouba Millimouno
 
