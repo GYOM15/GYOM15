@@ -1,21 +1,23 @@
 ![Guy Olivier Yanouba Millimouno Banner](https://github.com/GYOM15/GYOM15/blob/main/banner.png)
 
 ## 👋 &nbsp;Hi, I'm Guy Olivier Yanouba Millimouno
+I’m a **Computer Science Master's student** specializing in [**AI and Data Intelligence**](https://etudier.uqam.ca/programme?code=1919) at **Université du Québec à Montréal (UQAM)**, with a preparatory focus on advancing my web and software development expertise.
 
-<p align="right"> <h3>Profile Views :- 2025</h3> <img src="https://komarev.com/ghpvc/?username=GYOM15&label=Profile%20views&color=0e75b6&style=flat" alt="GYOM15" /> </p>
 
-### 👨‍💻 &nbsp;About Me
+### 🔍 &nbsp;About Me
 
-💡 Passionate about exploring emerging technologies, developing innovative software solutions, and optimizing processes with effective techniques. I have a strong interest in AI, Data Engineering, and secure Web Development.  
-🎓 Currently pursuing a [Master's in Computer Science for Data Intelligence and Management at Université du Québec à Montréal (UQAM)](https://etudier.uqam.ca/programme?code=1919), with a preparatory focus on advancing my web and software development expertise.  
-💻 Fascinated by Artificial Intelligence, Data Science, and secure Web Development, with an active interest in Cybersecurity.  
-📚 In my spare time, I enjoy exploring new tools, solving real-world coding puzzles, and staying inspired with great books.  
-👨‍💻 All of my projects are available at [GitHub](https://github.com/GYOM15).  
-📨 Reach out to me at millimounou.guy_olivier_yanouba@courrier.uqam.ca — or — gyom.tech@gmail.com. I’ll respond as soon as I can.  
-📄 Check out my Résumé for details about my experience and projects: [Visit Here](https://gyom-tech.com).  
-<p align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</p>
+💡 I’m a Master's student in Computer Science at UQAM, passionate about AI, Data Engineering, and Web Development.
+I thrive in environments that challenge me to grow and stay curious about new technologies that drive innovation.  
+💻 Fascinated by Artificial Intelligence, Data Science, and secure Web Development, with an active interest in Cybersecurity. 
+
+### 🧑‍💻 &nbsp;What Drives Me
+I’m motivated by solving real-world problems with tech, whether it's optimizing data, building secure apps, or designing intelligent systems.  
+I believe in collaboration and interdisciplinary learning, which is why I enjoy working on projects that push me to think critically.  
+📘 In my free time, I dive into books that inspire me to explore emerging trends in technology.
+### 📄 &nbsp;Check out my Résumé for more details
+<a href="https://gyom-tech.com">
+    <img align="center" src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" alt="Resume" height="40" />
+</a>
 
 ### 🛠️ Languages
 <p align="center">
@@ -31,14 +33,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
   </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-  </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.mikroe.com/mikroc" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/MikroC_Logo.png" alt="microC" width="60" height="60"/> 
   </a> 
 </p>
 
@@ -76,6 +72,12 @@
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="60" height="60"/> 
   </a> 
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:4096/1*6rDcIgFJQldloIERiUSmzw.png" alt="sqlserver" width="70" height="70"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="sqlserver" width="60" height="60"/> 
+  </a>
 </p>
 
 ---
@@ -134,6 +136,7 @@
     <img src="https://phpunit.de/img/phpunit.svg" alt="markdown" width="60" height="60"/> 
   </a> 
 </p>
+
 ---
 
 ### 📑 Other Tools
@@ -172,6 +175,19 @@
 
 ### 📬 Connect with Me
 <p>
-<a href="https://linkedin.com/in/gyom15" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="gyom15" height="40" width="40" /></a>
-<a href="https://hashnode.com/@gyom15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gyom15" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/gyom15" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="gyom15" height="40" width="40" />
+  </a>
+  <a href="https://hashnode.com/@gyom15" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gyom15" height="40" width="40" />
+  </a>
+  <a href="mailto:millimounou.guy_olivier_yanouba@courrier.uqam.ca">
+    <img align="center" src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email" height="40" />
+  </a> - or -
+  <a href="mailto:gyom.tech@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email" height="40" />
+  </a>
 </p>
+
+### 🛡️ &nbsp;My TryHackMe Profile
+<img src="https://tryhackme-badges.s3.amazonaws.com/Psr0.png" alt="Your Image Badge" />
