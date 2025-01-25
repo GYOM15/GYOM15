@@ -1,4 +1,4 @@
-![Guy Olivier Yanouba Millimouno Banner](https://github.com/GYOM15/GYOM15/blob/main/banner.png)
+![Guy Olivier Yanouba Millimouno Banner](docs/banner.png)
 
 ## 👋 &nbsp;Hi, I'm Guy Olivier Yanouba Millimouno
 I’m a **Computer Science Master's student** specializing in [**AI and Data Intelligence**](https://etudier.uqam.ca/programme?code=1919) at **Université du Québec à Montréal (UQAM)**, with a preparatory focus on advancing my web and software development expertise.
@@ -15,7 +15,7 @@ I’m motivated by solving real-world problems with tech, whether it's optimizin
 I believe in collaboration and interdisciplinary learning, which is why I enjoy working on projects that push me to think critically.  
 📘 In my free time, I dive into books that inspire me to explore emerging trends in technology.
 ### 📄 &nbsp;Check out my Résumé for more details
-<a href="https://gyom-tech.com">
+<a href="docs/gyom-15-resume.pdf">
     <img align="center" src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" alt="Resume" height="40" />
 </a>
 
