@@ -123,6 +123,9 @@ I believe in collaboration and interdisciplinary learning, which is why I enjoy 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="flask" width="60" height="60"/> 
   </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+    <img src="https://1.bp.blogspot.com/-TevOgPVC2dE/WnILAnucRVI/AAAAAAAAGU0/OlrnoLsf2fs9aKpm9_BGEqk5R54gUCZbgCLcBGAs/s1600/spring-boot.png" alt="flask" width="100" height="70"/> 
+  </a>
 </p>
 
 ---
@@ -171,10 +174,15 @@ I believe in collaboration and interdisciplinary learning, which is why I enjoy 
 </p>
 
 ### 🏆 Git Profile Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=GYOM15&theme=juicyfresh&no-bg=true&count_private=true" alt="Git Profile Trophies" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GYOM15&theme=juicyfresh&no-bg=true&count_private=true" alt="Git Profile Trophies" />
+</p>
 
 ### 📬 Connect with Me
 <p>
+  <a href="https://gitlab.info.uqam.ca/millimounou.guy_olivier_yanouba" target="blank">
+    <img align="center" src="https://gitlab.com/assets/logo-911de323fa0def29aaf817fca33916653fc92f3ff31647ac41d2c39bbe243edb.svg" alt="gyom15" height="40" width="40" />
+  </a>
   <a href="https://linkedin.com/in/gyom15" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="gyom15" height="40" width="40" />
   </a>
