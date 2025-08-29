@@ -175,7 +175,7 @@ I believe in collaboration and interdisciplinary learning, which is why I enjoy 
 
 ### 🏆 Git Profile Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GYOM15&theme=juicyfresh&no-bg=true&count_private=true" alt="Git Profile Trophies" />
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYOM15&show_icons=true&theme=radical)" alt="Git Profile Trophies" />
 </p>
 
 ### 📬 Connect with Me
