@@ -1,7 +1,7 @@
 ![Guy Olivier Yanouba Millimouno Banner](docs/banner.png)
 
 ## 👋 &nbsp;Hi, I'm Guy Olivier Yanouba Millimouno
-I’m a **Computer Science Master's student** specializing in [**AI and Data Intelligence**](https://etudier.uqam.ca/programme?code=1919) at **Université du Québec à Montréal (UQAM)**, with a preparatory focus on advancing my web and software development expertise.
+I’m a **Computer Science Master's student** specializing in [**AI and Data Intelligence**](https://etudier.uqam.ca/programme?code=1919) at **Université du Québec à Montréal (UQAM)**.
 
 
 ### 🔍 &nbsp;About Me
