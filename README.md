@@ -1,159 +1,205 @@
 ![Guy Olivier Yanouba Millimouno Banner](docs/banner.png)
 
-## 👋 &nbsp;Hi, I'm Guy Olivier Yanouba Millimouno
-I’m a **Computer Science Master's student** specializing in [**AI and Data Intelligence**](https://etudier.uqam.ca/programme?code=1919) at **Université du Québec à Montréal (UQAM)**.
+<h1 align="center">Hi, I'm Guy Olivier 👋</h1>
+<h3 align="center">🤖 AI / Data Engineer in the making · 🎓 MSc Computer Science @ UQAM</h3>
 
-
-### 🔍 &nbsp;About Me
-
-💡 I’m a Master's student in Computer Science at UQAM, passionate about AI, Data Engineering, and Web Development.
-I thrive in environments that challenge me to grow and stay curious about new technologies that drive innovation.  
-💻 Fascinated by Artificial Intelligence, Data Science, and secure Web Development, with an active interest in Cybersecurity. 
-
-### 🧑‍💻 &nbsp;What Drives Me
-I’m motivated by solving real-world problems with tech, whether it's optimizing data, building secure apps, or designing intelligent systems.  
-I believe in collaboration and interdisciplinary learning, which is why I enjoy working on projects that push me to think critically.  
-📘 In my free time, I dive into books that inspire me to explore emerging trends in technology.
-### 📄 &nbsp;Check out my Résumé for more details
-<a href="docs/resumeBNC.pdf">
-    <img align="center" src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" alt="Resume" height="40" />
-</a>
-
-### 🛠️ Languages
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
-  </a> 
+  <a href="https://linkedin.com/in/gyom15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gyom.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="docs/resumeBNC.pdf"><img src="https://img.shields.io/badge/Résumé-2C3E50?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Résumé" /></a>
+  <img src="https://komarev.com/ghpvc/?username=GYOM15&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
 
-### 🔧 Technologies
+### 🔍 About Me
+
+I'm a Master's student in **Computer Science** at [Université du Québec à Montréal (UQAM)](https://etudier.uqam.ca/programme?code=1919), specializing in **Artificial Intelligence & Data Intelligence**.
+
+🎯 **What I do:** I build data pipelines, train ML models, and design intelligent systems that turn raw data into decisions.
+
+💡 **What I care about:** Solving real-world problems with AI — at the intersection of **data engineering**, **machine learning**, and **secure software**.
+
+📍 **Based in:** Montréal, QC 🇨🇦
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Waste Sorter AI <sub><i>private — available on request</i></sub></h4>
+      <p>AI-powered waste sorting assistant combining a <b>CNN</b> for image classification, a <b>Bayesian network</b> for contextual reasoning, and an <b>RDF ontology</b> for semantic recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/RDF-005A9C" alt="RDF" />
+        <img src="https://img.shields.io/badge/Bayesian-8E44AD" alt="Bayesian" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏨 Hotel Cancellation — MLOps Pipeline</h4>
+      <p>End-to-end ML pipeline on <b>Databricks Lakehouse</b> predicting hotel booking cancellations. Experiment tracking and model versioning with <b>MLflow Model Registry</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" alt="Databricks" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow" />
+        <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" alt="Spark" />
+      </p>
+      <a href="https://github.com/GYOM15/hotel-cancellation-ml-pipeline-databricks">→ View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Distributed RAG with Ray</h4>
+      <p>Retrieval-Augmented Generation pipeline (Wikipedia + SentenceTransformers + FAISS + flan-t5) distributed with <b>Ray</b>. Includes an honest analysis of when distribution actually pays off.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white" alt="Ray" />
+        <img src="https://img.shields.io/badge/FAISS-009999" alt="FAISS" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace" />
+      </p>
+      <a href="https://github.com/GYOM15/distributed-rag-ray">→ View project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⛪ EcclesiaFlow — SaaS Platform</h4>
+      <p>Multi-tenant SaaS for church administration built on <b>Spring Boot microservices</b>: auth, members, communication, and deployment orchestration modules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <a href="https://github.com/GYOM15/ecclesiaflowPlatform">→ View project</a>
+    </td>
+  </tr>
+</table>
+
+#### 📦 Other Notable Projects
+
+- 📊 **[credit-risk-lab](https://github.com/GYOM15/credit-risk-lab)** — End-to-end data science pipeline for credit risk analysis (default classification + loan amount prediction).
+- 🌍 **[Multilingual Sentiment Analysis](https://github.com/GYOM15/Multilingual-Sentiment-Analysis-Simbrain)** — Cross-lingual sentiment pipeline (EN/FR/IT) with Sentence Transformers and Simbrain.
+- 🚕 **[Dask NYC Taxi](https://github.com/GYOM15/dask_NYC_Taxi_Trip_Duration)** — Distributed taxi trip duration prediction on NYC TLC 2024 data with Dask + scikit-learn.
+- 🌦️ **[Spark Analytics Pipeline](https://github.com/GYOM15/spark-analytics-pipeline)** — Distributed weather data processing and modeling with Apache Spark.
+
+---
+
+### 💻 Languages
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/> 
-  </a> 
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.oracle.com/database/technologies/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-  </a> 
-  <a href="https://suricata.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="60" height="60"/> 
-  </a> 
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:4096/1*6rDcIgFJQldloIERiUSmzw.png" alt="sqlserver" width="70" height="70"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="sqlserver" width="60" height="60"/> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="55" height="55"/>
 </p>
 
 ---
 
-### 🖥️ Development Environments
+### 🤖 AI / ML / Data Science
 <p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> 
-  </a> 
-  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="netbeans" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original-wordmark.svg" alt="eclipse" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/phpstorm-icon-512x506-d6yogswx.png" alt="phpstorm" width="60" height="60"/> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="55" height="55"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="55" height="55"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-EE4C2C" alt="Sentence Transformers" />
+  <img src="https://img.shields.io/badge/FAISS-009999" alt="FAISS" />
+  <img src="https://img.shields.io/badge/CNN-FF6F00" alt="CNN" />
+  <img src="https://img.shields.io/badge/RAG-8E44AD" alt="RAG" />
+  <img src="https://img.shields.io/badge/Bayesian_Networks-2C3E50" alt="Bayesian Networks" />
+  <img src="https://img.shields.io/badge/RDF_Ontologies-005A9C" alt="RDF" />
 </p>
 
 ---
 
-### 🌐 Web Development & Frameworks
+### 📊 Data Engineering & Big Data
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="60" height="60"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="flask" width="60" height="60"/> 
-  </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://1.bp.blogspot.com/-TevOgPVC2dE/WnILAnucRVI/AAAAAAAAGU0/OlrnoLsf2fs9aKpm9_BGEqk5R54gUCZbgCLcBGAs/s1600/spring-boot.png" alt="flask" width="100" height="70"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge" alt="Databricks" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" alt="Spark" />
+  <img src="https://img.shields.io/badge/Dask-FC6E6B?logo=dask&logoColor=white&style=for-the-badge" alt="Dask" />
+  <img src="https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white&style=for-the-badge" alt="Ray" />
 </p>
 
 ---
 
-### 📑 Tests
+### 🌐 Web Development
 <p align="center">
-  <a href="https://junit.org/junit5" target="_blank" rel="noreferrer"> 
-    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="burpsuite" width="60" height="60"/> 
-  </a> 
-  <a href="https://phpunit.de/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://phpunit.de/img/phpunit.svg" alt="markdown" width="60" height="60"/> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"/>
 </p>
 
 ---
 
-### 📑 Other Tools
+### ⚙️ DevOps & Cloud
 <p align="center">
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" alt="burpsuite" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/markdown-icon-1024x731-cl4c5213.png" alt="markdown" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.wireshark.org/assets/img/wireshark-logo-light.png" alt="wireshark" width="60" height="60"/> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="55" height="55"/>
 </p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="55" height="55"/>
+</p>
+
+---
+
+### 🛡️ Security & Testing
+<p align="center">
+  <img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" alt="Burp Suite" width="55" height="55"/>
+  <img src="https://www.wireshark.org/assets/img/wireshark-logo-light.png" alt="Wireshark" width="55" height="55"/>
+  <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="Suricata" width="55" height="55"/>
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="55" height="55"/>
+  <img src="https://phpunit.de/img/phpunit.svg" alt="PHPUnit" width="55" height="55"/>
+</p>
+
+---
+
+### 🖥️ IDEs & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="55" height="55"/>
+  <img src="https://static-00.iconduck.com/assets.00/phpstorm-icon-512x506-d6yogswx.png" alt="PhpStorm" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="55" height="55"/>
+  <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="NetBeans" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="55" height="55"/>
+</p>
+
+---
+
+### 🏅 Certifications
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="120" />
+    </td>
+    <td valign="middle">
+      <h4>AWS Certified AI Practitioner</h4>
+      <p>Foundational certification covering AI/ML services on AWS — generative AI, model selection, responsible AI, and prompt engineering. Validates understanding of <b>Amazon Bedrock</b>, <b>SageMaker</b>, and AWS AI building blocks.</p>
+      <p><i>Issued by Amazon Web Services</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -175,7 +221,7 @@ I believe in collaboration and interdisciplinary learning, which is why I enjoy 
 
 ### 🏆 Git Profile Trophies
 <p align="center">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYOM15&show_icons=true&theme=radical)" alt="Git Profile Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GYOM15&theme=radical&no-frame=true&row=1&column=7" alt="Git Profile Trophies" />
 </p>
 
 ### 📬 Connect with Me
@@ -197,5 +243,7 @@ I believe in collaboration and interdisciplinary learning, which is why I enjoy 
   </a>
 </p>
 
-### 🛡️ &nbsp;My TryHackMe Profile
-<img src="https://tryhackme-badges.s3.amazonaws.com/Psr0.png" alt="Your Image Badge" />
+### 🛡️ TryHackMe Profile
+<a href="https://tryhackme.com/p/gyom15" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Psr0.png" alt="TryHackMe Badge" />
+</a>
