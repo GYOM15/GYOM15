@@ -1,7 +1,11 @@
 ![Guy Olivier Yanouba Millimouno Banner](docs/banner.png)
 
 <h1 align="center">Hi, I'm Guy Olivier 👋</h1>
-<h3 align="center">🤖 AI / Data Engineer in the making · 🎓 MSc Computer Science @ UQAM</h3>
+<p align="center">
+  <a href="https://github.com/GYOM15">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI+%2F+Data+Engineer+in+the+making;MSc+Computer+Science+%40+UQAM;Data+pipelines+%C2%B7+ML+%C2%B7+Secure+software" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/gyom15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -87,6 +91,7 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="55" height="55"/>
@@ -113,6 +118,10 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://img.shields.io/badge/RAG-8E44AD" alt="RAG" />
   <img src="https://img.shields.io/badge/Bayesian_Networks-2C3E50" alt="Bayesian Networks" />
   <img src="https://img.shields.io/badge/RDF_Ontologies-005A9C" alt="RDF" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/NetworkX_(GraphRAG)-2C5BB4" alt="NetworkX GraphRAG" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/RAGAS-E8543F" alt="RAGAS" />
 </p>
 
 ---
@@ -136,6 +145,13 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
 ---
@@ -148,6 +164,9 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="55" height="55"/>
 </p>
 
 ---
@@ -169,6 +188,7 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="Suricata" width="55" height="55"/>
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="55" height="55"/>
   <img src="https://phpunit.de/img/phpunit.svg" alt="PHPUnit" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="55" height="55"/>
 </p>
 
 ---
@@ -205,23 +225,28 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GYOM15&show_icons=true&locale=en&theme=radical&cache_seconds=21600" alt="GYOM15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GYOM15&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&rank_icon=percentile&cache_seconds=21600" alt="GYOM15" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYOM15&theme=radical" alt="GYOM15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYOM15&theme=tokyonight" alt="GYOM15" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GYOM15&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=21600" alt="GYOM15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GYOM15&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=21600" alt="GYOM15" />
 </p>
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GYOM15&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GYOM15&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GYOM15/GYOM15/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ### ⏰ Productive Time
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GYOM15&theme=radical" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GYOM15&theme=tokyonight" alt="Productive Time" />
 </p>
 
 ### 📬 Connect with Me
@@ -244,3 +269,5 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
 <a href="https://tryhackme.com/p/gyom15" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Psr0.png" alt="TryHackMe Badge" />
 </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer" alt="" />
