@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gyom15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gyom.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:millimounou.guy_olivier_yanouba@courrier.uqam.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="docs/resumeBNC.pdf"><img src="https://img.shields.io/badge/Résumé-2C3E50?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Résumé" /></a>
   <img src="https://komarev.com/ghpvc/?username=GYOM15&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
@@ -205,13 +205,13 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GYOM15&show_icons=true&locale=en&theme=radical" alt="GYOM15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GYOM15&show_icons=true&locale=en&theme=radical&cache_seconds=21600" alt="GYOM15" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYOM15&theme=radical" alt="GYOM15" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GYOM15&show_icons=true&locale=en&layout=compact&theme=radical" alt="GYOM15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GYOM15&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=21600" alt="GYOM15" />
 </p>
 
 ### 📈 Contribution Graph
@@ -219,9 +219,9 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GYOM15&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
-### 📋 Profile Summary
+### ⏰ Productive Time
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GYOM15&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GYOM15&theme=radical" alt="Productive Time" />
 </p>
 
 ### 📬 Connect with Me
@@ -236,9 +236,6 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gyom15" height="40" width="40" />
   </a>
   <a href="mailto:millimounou.guy_olivier_yanouba@courrier.uqam.ca">
-    <img align="center" src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email" height="40" />
-  </a> - or -
-  <a href="mailto:gyom.tech@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email" height="40" />
   </a>
 </p>
