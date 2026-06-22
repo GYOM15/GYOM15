@@ -178,7 +178,7 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="55" height="55"/>
-  <img src="https://static-00.iconduck.com/assets.00/phpstorm-icon-512x506-d6yogswx.png" alt="PhpStorm" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="55" height="55"/>
   <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="NetBeans" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="55" height="55"/>
@@ -219,9 +219,9 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GYOM15&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
-### 🏆 Git Profile Trophies
+### 📋 Profile Summary
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GYOM15&theme=radical&no-frame=true&row=1&column=7" alt="Git Profile Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GYOM15&theme=radical" alt="Profile Summary" />
 </p>
 
 ### 📬 Connect with Me
