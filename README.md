@@ -234,7 +234,7 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYOM15&theme=tokyonight" alt="GYOM15" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-gyom15s-projects.vercel.app/api/top-langs?username=GYOM15&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&cache_seconds=21600" alt="GYOM15" />
+  <img src="https://github-readme-stats-gyom15s-projects.vercel.app/api/top-langs?username=GYOM15&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&langs_count=10&cache_seconds=21600" alt="GYOM15" />
 </p>
 
 ### 📈 Contribution Graph
