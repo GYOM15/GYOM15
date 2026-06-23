@@ -225,7 +225,10 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-gyom15s-projects.vercel.app/api?username=GYOM15&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=21600" alt="GYOM15" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGYOM15%2FGYOM15%2Fbadges%2Fcommits.json&style=for-the-badge" alt="Total commits across all repositories, private included" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-gyom15s-projects.vercel.app/api?username=GYOM15&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide=commits&rank_icon=percentile&cache_seconds=21600" alt="GYOM15" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYOM15&theme=tokyonight" alt="GYOM15" />
