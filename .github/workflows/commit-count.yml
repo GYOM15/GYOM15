@@ -1,0 +1,54 @@
+name: Total commit count
+
+# Compte les commits sur toutes mes adresses email (repos privés inclus)
+# via l'API Search, et écrit le total dans badges/commits.json (branche badges)
+# que shields.io affiche dans le README.
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # tous les jours à 02:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout badges branch
+        uses: actions/checkout@v4
+        with:
+          ref: badges
+
+      - name: Compter les commits (toutes adresses, privés inclus)
+        env:
+          GH_TOKEN: ${{ secrets.PAT_1 }}
+        run: |
+          set -e
+          emails="calebkoffi21@gmail.com millimounou.guy_olivier_yanouba@courrier.uqam.ca millimouno.guy_olivier_yanouba@courrier.uqam.ca 116668599+GYOM15@users.noreply.github.com"
+          total=0
+          for e in $emails; do
+            n=$(gh api -X GET search/commits \
+                  -H "Accept: application/vnd.github.cloak-preview+json" \
+                  -f q="author-email:$e" --jq '.total_count' || echo 0)
+            n=${n:-0}
+            echo "$e -> $n"
+            total=$((total + n))
+            sleep 3   # respecte la limite de l'API Search (30 req/min)
+          done
+          echo "TOTAL=$total"
+          if [ "$total" -lt 1 ]; then
+            echo "::warning::Total = 0 — le secret PAT_1 est probablement manquant ou invalide. Badge non mis a jour."
+            exit 1
+          fi
+          printf '{"schemaVersion":1,"label":"Total Commits","message":"%s","color":"blueviolet","namedLogo":"git","logoColor":"white"}\n' "$total" > commits.json
+          cat commits.json
+
+      - name: Publier si changement
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add commits.json
+          git commit -m "chore: update total commit count" || { echo "aucun changement"; exit 0; }
+          git push origin badges
