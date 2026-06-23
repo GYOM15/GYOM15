@@ -1,0 +1,14 @@
+<svg width="495" height="115" viewBox="0 0 495 115" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Total Commits: 1,719</title>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #70a5fd }
+    .stat   { font: 700 44px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdae }
+    .sub    { font: 400 13px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #a9b1d6 }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="114" width="494" fill="#1a1b27" stroke="#e4e2e2"/>
+  <path transform="translate(26,18) scale(1.1)" fill="#bf91f3" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/>
+  <text x="52" y="33" class="header">Total Commits</text>
+  <text x="26" y="90" class="stat">1,719</text>
+  <text x="185" y="74" class="sub">across all repositories</text>
+  <text x="185" y="92" class="sub">private repos included</text>
+</svg>
