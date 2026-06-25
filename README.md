@@ -144,6 +144,9 @@ I'm a Master's student in **Computer Science** at [Université du Québec à Mon
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white" alt="Framer" />
+</p>
 
 ---
 
